@@ -1,1 +1,2 @@
-hello its me
+hello its me;
+im the nxt world softwar developer;
